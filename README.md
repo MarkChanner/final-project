@@ -1,8 +1,8 @@
-# Beloved Machine
+# Melody Maker
 
-A front-end application JavaScript application that runs in the browser. Our application is aimed at musicians and non-musicians alike, to play and interact with sound. We wanted learning with music to be more accessible and fun. 
+A front-end application JavaScript application that runs in the browser. Our application is aimed at musicians and non-musicians alike, to play and interact with sound. We wanted learning with music to be more accessible and fun.
 
-Visit our application NAME-OF-APPLICATION [here](https://stranger-synths.herokuapp.com/)
+Visit our application [Melody Maker](https://stranger-synths.herokuapp.com/)
 
 ## Installation
 
@@ -37,9 +37,9 @@ To run feature-tests using Cypress
 * Cypress
 * Express
 * HTML/CSS
-* GitHub for...
-* Trello for...
-* Heroku for...
+* [GitHub](https://github.com/MarkChanner/final-project)
+* [Trello](https://trello.com/b/meJb66J9/final-project)
+* [Heroku](https://stranger-synths.herokuapp.com/)
 
 #### User Stories
 
@@ -69,7 +69,7 @@ So I can visualise my sound,
 I would like to see some animation based on sound.
 
 As a user,
-So I can create a new song without refreshing the page, 
+So I can create a new song without refreshing the page,
 I would like to erase what I have selected.
 ```
 
